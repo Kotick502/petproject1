@@ -3,7 +3,7 @@
 ### Используемые технологии
 Kotlin, MVVM, Room, Jetpack Compose, Hilt, Koin
 ### Запуск приложения
-$ git clone https://github.com/Kotick502/petproject1.git
-Открыть проект в Android Studio: File → Open → выбрать папку проекта
-Дождаться синхронизации Gradle
-Запустить приложение: нажать Shift + F10
+-$ git clone https://github.com/Kotick502/petproject1.git
+-Открыть проект в Android Studio: File → Open → выбрать папку проекта
+-Дождаться синхронизации Gradle
+-Запустить приложение: нажать Shift + F10
